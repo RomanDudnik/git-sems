@@ -26,3 +26,12 @@
 #                 count += 1
 #         num_vowels.append(count)
 #     return num_vowels
+
+# def GodSong(num):
+#     if len(set(num)) == 1:
+#         print('Парам пам-пам')
+#     else:
+#         print('Пам парам')
+
+# poem = list(input('Напишите стихотворение: ').lower().split())
+# GodSong(PuhSongVowels(poem))
