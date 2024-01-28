@@ -15,3 +15,14 @@
 Парам пам-пам
 '''
 "Решение 1"
+
+# def PuhSongVowels(song):
+#     vowels = ['а', 'е', 'ё', 'и', 'о', 'у', 'э', 'ы', 'ю', 'я']
+#     num_vowels = list()
+#     for i in song:
+#         count = 0
+#         for j in i:
+#             if j in vowels:
+#                 count += 1
+#         num_vowels.append(count)
+#     return num_vowels
