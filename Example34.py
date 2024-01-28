@@ -35,18 +35,3 @@
 
 # poem = list(input('Напишите стихотворение: ').lower().split())
 # GodSong(PuhSongVowels(poem))
-
-"Решение 2"
-
-# poem = list(input('Напишите стихотворение: ').lower().split())
-# print(poem)
-# volwes = 'аеёиоуэыюя'
-
-# num_volwes = [sum(x in volwes for x in y) for y in poem]
-# # print(num_volwes)
-
-# if len(set(num_volwes)) == 1 :
-#     res = "Парам пам-пам"
-# res = "Пам парам"
-
-# print(res)
